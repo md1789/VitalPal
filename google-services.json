@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84585378529",
+    "project_id": "vitalpal-ecafb",
+    "storage_bucket": "vitalpal-ecafb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84585378529:android:a5423bf76a90981f563da0",
+        "android_client_info": {
+          "package_name": "com.VitalPal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84585378529-eoj1j68p0iclu1fqa73df1oealk2igm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnKlHPWkmRgp_L7FsEzPccoZWjue9IMzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84585378529-eoj1j68p0iclu1fqa73df1oealk2igm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
